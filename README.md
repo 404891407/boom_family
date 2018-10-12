@@ -1,1 +1,2 @@
 # boom_family
+This is the note that I would like to notice
